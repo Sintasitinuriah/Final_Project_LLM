@@ -19,6 +19,7 @@ Chatbot ini memberikan jawaban cepat seputar akademik, administrasi, biaya kulia
 ![image](image.png)
 
 Demo Aplikasi bisa diakses pada link: https://hackactive-finalproject-infoaja.streamlit.app/
+
 ---
 
 ## 🛠️ Teknologi
