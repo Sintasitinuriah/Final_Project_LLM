@@ -31,7 +31,9 @@ Demo Aplikasi bisa diakses pada link: https://hackactive-finalproject-infoaja.st
 ---
 
 ## 📂 Struktur Proyek
+
 📦 infoaja
+
 ├── app.py # Script utama Streamlit
 ├── kampus_info.json # Knowledge base dummy Kampus A
 ├── .env # API Key Google Gemini
