@@ -17,6 +17,8 @@ Chatbot ini memberikan jawaban cepat seputar akademik, administrasi, biaya kulia
 - ⚙️ **Pengaturan Model** – pilih model Gemini, atur temperature, dan token output.  
 
 ![image](image.png)
+
+Demo Aplikasi bisa diakses pada link: https://hackactive-finalproject-infoaja.streamlit.app/
 ---
 
 ## 🛠️ Teknologi
