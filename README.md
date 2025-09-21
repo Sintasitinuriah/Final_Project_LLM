@@ -88,8 +88,8 @@ Akses di browser: http://localhost:8501
 - Integrasi voice chat.
 
 ---
+
 🤝 Kontribusi
 Pull request sangat terbuka! Silakan fork, buat branch fitur, lalu ajukan PR.
----
 📜 Lisensi
 MIT License © 2025 – InfoAja
