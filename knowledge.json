@@ -1,0 +1,53 @@
+{
+  "nama": "Kampus A",
+  "jurusan": {
+    "industri": {
+      "kurikulum": [
+        "Pengantar Teknik Industri",
+        "Statistika Industri",
+        "Perencanaan Produksi",
+        "Manajemen Rantai Pasok",
+        "Rekayasa Kualitas",
+        "Ergonomi & Keselamatan Kerja",
+        "Manajemen Proyek"
+      ]
+    },
+    "informatika": {
+      "kurikulum": [
+        "Dasar Pemrograman",
+        "Struktur Data & Algoritma",
+        "Basis Data",
+        "Jaringan Komputer",
+        "Kecerdasan Buatan",
+        "Pemrograman Web",
+        "Sistem Operasi"
+      ]
+    }
+  },
+  "biaya": {
+    "semester": 6000000,
+    "pmb": 12000000,
+    "lainnya": {
+      "asrama": 3000000,
+      "lab": 1500000
+    }
+  },
+  "kontak": {
+    "alamat": "Jl. Pendidikan No. 123, Kota Edukasi",
+    "telepon": "021-12345678",
+    "email": "info@kampus-a.ac.id"
+  },
+  "fasilitas": [
+    "Perpustakaan",
+    "Laboratorium Komputer",
+    "Asrama Mahasiswa",
+    "WiFi Kampus",
+    "Kantin Sehat"
+  ],
+  "beasiswa": [
+    "Beasiswa Prestasi Akademik",
+    "Beasiswa Kurang Mampu",
+    "Beasiswa Mitra Industri"
+  ]
+  
+}
