@@ -70,32 +70,27 @@ streamlit run streamlit_chatbot.py
 Akses di browser: http://localhost:8501
 
 ---
-📘 Contoh Pertanyaan
+## 📘 Contoh Pertanyaan
 
-"Apa saja jurusan di Kampus A?"
-
-"Berapa biaya semester di Kampus A?"
-
-"Tolong jelaskan kurikulum Teknik Industri."
-
-"Apakah ada beasiswa di Kampus A?"
-
-"Fasilitas apa saja yang tersedia di Kampus A?"
+- "Apa saja jurusan di Kampus A?"
+- "Berapa biaya semester di Kampus A?"
+- "Tolong jelaskan kurikulum Teknik Industri."
+- "Apakah ada beasiswa di Kampus A?"
+- "Fasilitas apa saja yang tersedia di Kampus A?"
 ---
 
-🔮 Roadmap
+## 🔮 Roadmap
 
- Integrasi dengan database kampus asli.
-
- Multi-kampus support.
-
- Login mahasiswa & personalisasi layanan.
-
- Chat history dengan penyimpanan eksternal (SQLite / Firebase).
-
- Integrasi voice chat.
+- Integrasi dengan database kampus asli.
+- Multi-kampus support.
+- Login mahasiswa & personalisasi layanan.
+- Chat history dengan penyimpanan eksternal (SQLite / Firebase).
+- Integrasi voice chat.
 
 ---
-🤝 Kontribusi
+## 🤝 Kontribusi
 
 Pull request sangat terbuka! Silakan fork, buat branch fitur, lalu ajukan PR.
+---
+📜 Lisensi
+MIT License © 2025 – InfoAja
