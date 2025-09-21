@@ -1,4 +1,4 @@
-python
+Python==3.11
 streamlit
 python-dotenv
 langchain
